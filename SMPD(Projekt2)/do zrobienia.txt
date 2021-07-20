@@ -1,0 +1,11 @@
+cross section dzielimy na X i M razy mieszamy i liczymy skutecznosc
+
+Bootstrap X% N razy, Bierzemy 20% czyli np 70 elementow, 70 razy 
+losujemy element w treningu te niewylosowane, w tescie chociaz raz wylosowane
+Nie dodawac duplikatow, ta skutecznosc dzielimy na srednia arytmetyczna
+
+
+Skad bierzemy ten plik ?
+Open cv 
+
++ FISHER I SFS I DSOTOSOWANIE TEGO DO TEGO
